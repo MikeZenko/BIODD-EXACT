@@ -1,0 +1,3 @@
+target_chembl_id,target_name,target_type,organism,pref_name
+CHEMBL5619,PIM1 kinase,SINGLE PROTEIN,Homo sapiens,DNA-(apurinic or apyrimidinic site) lyase
+CHEMBL4523,PAK4,SINGLE PROTEIN,Homo sapiens,Serine/threonine-protein kinase PIM2

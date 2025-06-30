@@ -1,0 +1,6 @@
+Target,Descriptor,p,Interpretation
+PIM1 kinase,pIC50,6.853814371586457e-17,Different distribution
+PIM1 kinase,MW,0.6892754841629034,Same distribution
+PIM1 kinase,LogP,0.24112825234962088,Same distribution
+PIM1 kinase,NumHDonors,0.07853450691953962,Same distribution
+PIM1 kinase,NumHAcceptors,0.22172546642543023,Same distribution

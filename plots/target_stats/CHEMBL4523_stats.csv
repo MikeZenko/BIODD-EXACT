@@ -1,0 +1,6 @@
+Target,Descriptor,p,Interpretation
+PAK4 kinase,pIC50,3.059875494087974e-21,Different distribution
+PAK4 kinase,MW,0.8816864988249439,Same distribution
+PAK4 kinase,LogP,0.5036052534229281,Same distribution
+PAK4 kinase,NumHDonors,1.3871597274034557e-05,Different distribution
+PAK4 kinase,NumHAcceptors,0.7661524408634804,Same distribution

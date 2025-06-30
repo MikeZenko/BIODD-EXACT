@@ -1,0 +1,6 @@
+Target,Descriptor,p,Interpretation
+EGFR kinase,pIC50,2.7117658010386806e-97,Different distribution
+EGFR kinase,MW,2.2804140648422696e-32,Different distribution
+EGFR kinase,LogP,1.402127874245822e-10,Different distribution
+EGFR kinase,NumHDonors,7.74293780143757e-22,Different distribution
+EGFR kinase,NumHAcceptors,0.1961160481162334,Same distribution

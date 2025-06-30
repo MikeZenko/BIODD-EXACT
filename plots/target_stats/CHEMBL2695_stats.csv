@@ -1,0 +1,6 @@
+Target,Descriptor,p,Interpretation
+PI3K alpha,pIC50,7.517699439204254e-57,Different distribution
+PI3K alpha,MW,2.2306602283788616e-28,Different distribution
+PI3K alpha,LogP,0.14122162928706192,Same distribution
+PI3K alpha,NumHDonors,1.091954881968312e-07,Different distribution
+PI3K alpha,NumHAcceptors,6.879149493799823e-10,Different distribution

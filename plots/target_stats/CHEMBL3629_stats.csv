@@ -1,0 +1,6 @@
+Target,Descriptor,p,Interpretation
+mTOR,pIC50,9.54596608853404e-17,Different distribution
+mTOR,MW,0.005489190708697182,Different distribution
+mTOR,LogP,0.0030922888187736044,Different distribution
+mTOR,NumHDonors,0.29857924179657935,Same distribution
+mTOR,NumHAcceptors,0.012899137366667689,Different distribution

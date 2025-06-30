@@ -1,0 +1,76 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+biodd_env/
+newenv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Large data files (exclude if too big for GitHub)
+*.zip
+*.tar.gz
+*.rar
+
+# Log files
+*.log
+nohup.out
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Mac installer packages
+*.pkg
+*.dmg
+*.sh
+
+# Model files that are too large (comment out if you want to include them)
+# models/*.pkl
+# models/*.joblib
+
+# Large datasets (uncomment if datasets are too large)
+# *.csv
+# data/
+# target_datasets/ 
